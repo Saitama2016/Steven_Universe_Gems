@@ -1,2 +1,2 @@
 # Steven_Universe_Gems
-A webpage featuring characters 
+A webpage featuring 9 gems from the short format animation Steven Universe.
